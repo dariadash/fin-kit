@@ -1,0 +1,22 @@
+body {
+    font-family: "Roboto";
+    color: #262842;
+}
+
+:root {
+    --border: 1px solid rgba(38, 40, 66, 0.12);
+    --border-color: rgba(38, 40, 66, 0.12);
+
+    --header-label-color: #6D6E85;
+    --header-background: #F7F8FC;
+
+    --counter-color: #8B8C9E;
+    --weekend-color: #A9A9B8;
+
+    --cell-border-blue: #497CF6;
+    --cell-color-blue: #E2EBFF;
+    --cell-border-yellow: #FFA530;
+    --cell-color-yellow: #FFF2E0;
+    --cell-border-green: #2DB77B;
+    --cell-color-green: #CFF0D6;
+}
